@@ -8,4 +8,5 @@ This module covers:
 - Application of **machine learning in Python**
 
 
-Final Project Presentation: 11-11-2024
+**Project:** Building a Machine Learning Model  
+**Project Deadline:** 11-11-2024

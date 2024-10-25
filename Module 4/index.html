@@ -8,6 +8,8 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
+            margin: 0;
+            padding: 0;
         }
         h1, h2, h3 {
             color: #2c3e50;
@@ -28,9 +30,34 @@
             font-weight: bold;
             color: #34495e;
         }
+        .nav-link {
+            text-decoration: none;
+            color: #2c3e50;
+            font-weight: bold;
+            margin: 10px;
+            display: inline-block;
+        }
+        .nav-link:hover {
+            color: #1abc9c;
+        }
+        .header {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+        }
+        .home-icon {
+            font-size: 20px; /* Adjust size as needed */
+            margin-right: 5px;
+        }
     </style>
 </head>
 <body>
+
+    <div class="header">
+        <a href="index.html" class="nav-link">
+            <span class="home-icon">🏠</span> Main Page CAS Louisa - Main
+        </a>
+    </div>
 
     <h1>Module 4: Ethics and Best Practices</h1>
     

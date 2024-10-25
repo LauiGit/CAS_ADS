@@ -8,5 +8,5 @@ In this module, we explore:
 - Fundamental techniques for designing **data management models**
 - Developing effective **data management plans** to support robust data handling in data science
 
-**Project:** Conceptual Design Report 
+**Project:** Conceptual Design Report  
 **Project Deadline:** 06-10-2024

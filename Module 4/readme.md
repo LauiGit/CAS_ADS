@@ -10,5 +10,5 @@ In this module, we focus on:
 - Understanding and discussing **ethical questions** in scientific computing
 - Practical use of **version control with Git**
 
-
-Final Project: GitHub Repository Creation
+**Project:** GitHub Repository Creation   
+**Project Deadline:** XX-XX-2024
